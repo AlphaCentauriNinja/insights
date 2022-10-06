@@ -1,0 +1,22 @@
+{
+  "name": "insights-api",
+  "version": "1.0.0",
+  "description": "Quality Assurance Metrics API ",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaCentauriNinja/insights.git"
+  },
+  "keywords": [
+    "Metrics"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaCentauriNinja/insights/issues"
+  },
+  "homepage": "https://github.com/AlphaCentauriNinja/insights#readme"
+}
